@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "0x5bae9703ab6a7d5787d1eb21931f83c6297e2da9",
+        "beneficiary": "0x6ce706A38ff53928708f2398e1071D18011026e0",
+        "releaseStartTime": "2018-03-01T08:00:00.000Z",
+        "releaseCliffTime": 0,
+        "numReleasePeriods": 1,
+        "releasePeriod": 3600,
+        "amountReleasedPerPeriod": "279591.103066565162400000",
+        "revocable": true,
+        "releaseOwner": "0x58e5601F1C877060FdAad9Dbb96d067ea549F45F",
+        "refundAddress": "0x64947cDB38d9d364eD5Ab78bfa23b29DE2ecdF7b",
+        "subjectToLiquidityProvision": false,
+        "initialDistributionRatio": 959,
+        "canValidate": false,
+        "canVote": true
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "identifier": "0xecc78212bc62518515785a2fa9843ce432ef0fa1",
+        "beneficiary": "0x3B30c4FA14Bab375D052b3331e716d954A41b7f2",
+        "releaseStartTime": "2021-10-10T07:00:00.000Z",
+        "releaseCliffTime": 31536000,
+        "numReleasePeriods": 24,
+        "releasePeriod": 2628000,
+        "amountReleasedPerPeriod": "7110.333333333333333333",
+        "revocable": true,
+        "releaseOwner": "0x41eF1111EdbaA9672cFb81229003143157a23C36",
+        "refundAddress": "0xeF283eca68DE87E051D427b4be152A7403110647",
+        "subjectToLiquidityProvision": false,
+        "initialDistributionRatio": 1000,
+        "canValidate": false,
+        "canVote": true
+    }
+]
